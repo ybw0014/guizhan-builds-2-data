@@ -7,4 +7,4 @@ import { Project } from './Project'
 import { ProjectDisplayOptions } from './ProjectDisplayOptions'
 import { ProjectBuildOptions } from './ProjectBuildOptions'
 
-export { ProjectBuildOptions, ProjectDisplayOptions, RawProject, Project, LegacyBuildInfo, LegacyBuildsInfo, BuildInfo, BuildsInfo  }
+export { ProjectBuildOptions, ProjectDisplayOptions, RawProject, Project, LegacyBuildInfo, LegacyBuildsInfo, BuildInfo, BuildsInfo }
