@@ -6,6 +6,7 @@ export interface ProjectDisplayOptions {
   hidden?: boolean
   name?: string
   authors?: string[]
+  wiki?: string
   keywords?: string[]
   requirements?: Record<string, Record<string, string>>
 }
