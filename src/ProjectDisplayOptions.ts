@@ -5,6 +5,7 @@ export interface ProjectDisplayOptions {
   officialList?: boolean
   hidden?: boolean
   name?: string
+  logo?: string
   authors?: string[]
   wiki?: string
   keywords?: string[]
