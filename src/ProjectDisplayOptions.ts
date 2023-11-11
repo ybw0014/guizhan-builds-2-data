@@ -3,6 +3,7 @@
  */
 export interface ProjectDisplayOptions {
   officialList?: boolean
+  language?: string
   hidden?: boolean
   name?: string
   logo?: string
