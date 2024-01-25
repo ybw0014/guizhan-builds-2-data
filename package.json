@@ -48,7 +48,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.61.0",
 		"@typescript-eslint/parser": "^5.61.0",
 		"eslint": "^8.44.0",
-		"husky": "^8.0.3",
+		"husky": "^9.0.0",
 		"size-limit": "^8.2.6",
 		"tsdx": "^0.14.1",
 		"tslib": "^2.6.0",
